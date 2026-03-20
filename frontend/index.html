@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loan Approval Predictor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f7fb;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 40px auto;
+      background: white;
+      padding: 24px;
+      border-radius: 12px;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+    }
+
+    label {
+      margin-bottom: 6px;
+      font-weight: bold;
+    }
+
+    input {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      font-size: 14px;
+    }
+
+    button {
+      width: 100%;
+      margin-top: 20px;
+      padding: 12px;
+      background: #2563eb;
+      color: white;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #1d4ed8;
+    }
+
+    .result {
+      margin-top: 24px;
+      padding: 16px;
+      border-radius: 10px;
+      background: #eef2ff;
+      display: none;
+    }
+
+    .approved {
+      color: green;
+      font-weight: bold;
+    }
+
+    .rejected {
+      color: red;
+      font-weight: bold;
+    }
+
+    .error {
+      margin-top: 20px;
+      color: red;
+      font-weight: bold;
+    }
+
+    @media (max-width: 600px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Loan Approval Predictor</h1>
+
+    <form id="loanForm">
+      <div class="grid">
+        <div class="field">
+          <label for="income">Income</label>
+          <input type="number" id="income" required />
+        </div>
+
+        <div class="field">
+          <label for="credit_score">Credit Score</label>
+          <input type="number" id="credit_score" min="300" max="850" required />
+        </div>
+
+        <div class="field">
+          <label for="loan_amount">Loan Amount</label>
+          <input type="number" id="loan_amount" required />
+        </div>
+
+        <div class="field">
+          <label for="years_employed">Years Employed</label>
+          <input type="number" id="years_employed" required />
+        </div>
+
+        <div class="field" style="grid-column: span 2;">
+          <label for="city">City</label>
+          <input type="text" id="city" required />
+        </div>
+      </div>
+
+      <button type="submit">Predict Loan Status</button>
+    </form>
+
+    <div id="errorBox" class="error"></div>
+
+    <div id="resultBox" class="result">
+      <p><strong>Prediction:</strong> <span id="predictionText"></span></p>
+      <p><strong>Decision:</strong> <span id="decisionText"></span></p>
+      <p><strong>Probability:</strong> <span id="probabilityText"></span></p>
+    </div>
+  </div>
+
+  <script>
+    const form = document.getElementById("loanForm");
+    const resultBox = document.getElementById("resultBox");
+    const predictionText = document.getElementById("predictionText");
+    const decisionText = document.getElementById("decisionText");
+    const probabilityText = document.getElementById("probabilityText");
+    const errorBox = document.getElementById("errorBox");
+
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      errorBox.textContent = "";
+      resultBox.style.display = "none";
+
+      const payload = {
+        income: parseInt(document.getElementById("income").value),
+        credit_score: parseInt(document.getElementById("credit_score").value),
+        loan_amount: parseInt(document.getElementById("loan_amount").value),
+        years_employed: parseInt(document.getElementById("years_employed").value),
+        city: document.getElementById("city").value
+      };
+
+      try {
+        const response = await fetch("http://127.0.0.1:8000/predict", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(payload)
+        });
+
+        if (!response.ok) {
+          const err = await response.json();
+          throw new Error(JSON.stringify(err));
+        }
+
+        const data = await response.json();
+
+        predictionText.textContent = data.prediction;
+        decisionText.textContent = data.decision;
+        decisionText.className = data.decision === "APPROVED" ? "approved" : "rejected";
+        probabilityText.textContent =
+          data.probability !== null ? Number(data.probability).toFixed(4) : "N/A";
+
+        resultBox.style.display = "block";
+      } catch (error) {
+        errorBox.textContent = "Error: " + error.message;
+      }
+    });
+  </script>
+</body>
+</html>

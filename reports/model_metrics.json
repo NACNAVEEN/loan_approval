@@ -1,0 +1,68 @@
+{
+    "best_model_name": "gradient_boosting",
+    "validation_results": {
+        "random_forest": {
+            "metrics": {
+                "dataset": "validation_random_forest",
+                "accuracy": 0.97,
+                "precision": 0.9607,
+                "recall": 0.9716,
+                "f1_score": 0.9661,
+                "roc_auc": 0.993
+            },
+            "confusion_matrix": [
+                [
+                    217,
+                    7
+                ],
+                [
+                    5,
+                    171
+                ]
+            ],
+            "classification_report": "              precision    recall  f1-score   support\n\n           0       0.98      0.97      0.97       224\n           1       0.96      0.97      0.97       176\n\n    accuracy                           0.97       400\n   macro avg       0.97      0.97      0.97       400\nweighted avg       0.97      0.97      0.97       400\n"
+        },
+        "gradient_boosting": {
+            "metrics": {
+                "dataset": "validation_gradient_boosting",
+                "accuracy": 0.975,
+                "precision": 0.9663,
+                "recall": 0.9773,
+                "f1_score": 0.9718,
+                "roc_auc": 0.9961
+            },
+            "confusion_matrix": [
+                [
+                    218,
+                    6
+                ],
+                [
+                    4,
+                    172
+                ]
+            ],
+            "classification_report": "              precision    recall  f1-score   support\n\n           0       0.98      0.97      0.98       224\n           1       0.97      0.98      0.97       176\n\n    accuracy                           0.97       400\n   macro avg       0.97      0.98      0.97       400\nweighted avg       0.98      0.97      0.98       400\n"
+        }
+    },
+    "test_result": {
+        "metrics": {
+            "dataset": "test",
+            "accuracy": 0.9875,
+            "precision": 0.9831,
+            "recall": 0.9886,
+            "f1_score": 0.9858,
+            "roc_auc": 0.9989
+        },
+        "confusion_matrix": [
+            [
+                221,
+                3
+            ],
+            [
+                2,
+                174
+            ]
+        ],
+        "classification_report": "              precision    recall  f1-score   support\n\n           0       0.99      0.99      0.99       224\n           1       0.98      0.99      0.99       176\n\n    accuracy                           0.99       400\n   macro avg       0.99      0.99      0.99       400\nweighted avg       0.99      0.99      0.99       400\n"
+    }
+}

@@ -1,0 +1,1153 @@
+feature,importance
+num__credit_score,0.6505071089982478
+num__income,0.1960235050242325
+num__loan_amount,0.07883937686019232
+num__years_employed,0.07460330230286139
+cat__city_Port Christopher,1.6728723744201092e-05
+cat__city_East Victoria,4.4190002648475815e-06
+cat__city_West Jennifer,3.038593375687232e-06
+cat__city_Port Jessica,1.6318346853487806e-06
+cat__city_North Joseph,8.827552352049129e-07
+cat__city_Jasonfort,5.907160591899279e-09
+cat__city_Wilsonfort,0.0
+cat__city_Wilsonmouth,0.0
+cat__city_Wilsonstad,0.0
+cat__city_Wilsonton,0.0
+cat__city_Woodsburgh,0.0
+cat__city_Yumouth,0.0
+cat__city_Zacharyton,0.0
+cat__city_Zamoramouth,0.0
+cat__city_Amyburgh,0.0
+cat__city_Amybury,0.0
+cat__city_Amystad,0.0
+cat__city_Amyview,0.0
+cat__city_Andersonbury,0.0
+cat__city_Andersonland,0.0
+cat__city_Andradeburgh,0.0
+cat__city_Andrechester,0.0
+cat__city_Andrewhaven,0.0
+cat__city_Andrewshire,0.0
+cat__city_Andrewsview,0.0
+cat__city_Andrewview,0.0
+cat__city_Angelaberg,0.0
+cat__city_Angelafort,0.0
+cat__city_Angelafurt,0.0
+cat__city_Angelaport,0.0
+cat__city_Angelashire,0.0
+cat__city_Annettefort,0.0
+cat__city_Anthonybury,0.0
+cat__city_Anthonyshire,0.0
+cat__city_Anthonyville,0.0
+cat__city_Antoniobury,0.0
+cat__city_Aprilbury,0.0
+cat__city_Aprilview,0.0
+cat__city_Ariasfurt,0.0
+cat__city_Arielmouth,0.0
+cat__city_Arthurton,0.0
+cat__city_Austinside,0.0
+cat__city_Averyview,0.0
+cat__city_Ayalamouth,0.0
+cat__city_Baileyland,0.0
+cat__city_Baileyport,0.0
+cat__city_Baileyville,0.0
+cat__city_Bairdborough,0.0
+cat__city_Bakermouth,0.0
+cat__city_Ballardfurt,0.0
+cat__city_Banksburgh,0.0
+cat__city_Barbaramouth,0.0
+cat__city_Barbarastad,0.0
+cat__city_Barneshaven,0.0
+cat__city_Barnesmouth,0.0
+cat__city_Barnettmouth,0.0
+cat__city_Basston,0.0
+cat__city_Batesbury,0.0
+cat__city_Bautistaport,0.0
+cat__city_Bellbury,0.0
+cat__city_Bennettchester,0.0
+cat__city_Bennettfurt,0.0
+cat__city_Bentleystad,0.0
+cat__city_Bergland,0.0
+cat__city_Blackburnberg,0.0
+cat__city_Blackton,0.0
+cat__city_Blackville,0.0
+cat__city_Blakebury,0.0
+cat__city_Blankenshipchester,0.0
+cat__city_Bowerschester,0.0
+cat__city_Bowersmouth,0.0
+cat__city_Boydburgh,0.0
+cat__city_Brandonton,0.0
+cat__city_Brandymouth,0.0
+cat__city_Brendahaven,0.0
+cat__city_Brendaport,0.0
+cat__city_Brianfurt,0.0
+cat__city_Brianhaven,0.0
+cat__city_Briannashire,0.0
+cat__city_Briantown,0.0
+cat__city_Brittanytown,0.0
+cat__city_Brittneyhaven,0.0
+cat__city_Brooksfurt,0.0
+cat__city_Brownchester,0.0
+cat__city_Brownhaven,0.0
+cat__city_Brownstad,0.0
+cat__city_Burkebury,0.0
+cat__city_Byrdburgh,0.0
+cat__city_Caldwelltown,0.0
+cat__city_Campbellborough,0.0
+cat__city_Carlaburgh,0.0
+cat__city_Carlosbury,0.0
+cat__city_Carlsonland,0.0
+cat__city_Carolynland,0.0
+cat__city_Carriebury,0.0
+cat__city_Carrollborough,0.0
+cat__city_Carrollland,0.0
+cat__city_Carterberg,0.0
+cat__city_Caseyberg,0.0
+cat__city_Cassiefurt,0.0
+cat__city_Catherineport,0.0
+cat__city_Cervantesborough,0.0
+cat__city_Chambersstad,0.0
+cat__city_Changmouth,0.0
+cat__city_Charlesport,0.0
+cat__city_Charleston,0.0
+cat__city_Chaseberg,0.0
+cat__city_Cherylborough,0.0
+cat__city_Christianshire,0.0
+cat__city_Christinaburgh,0.0
+cat__city_Christinachester,0.0
+cat__city_Christinashire,0.0
+cat__city_Christopherbury,0.0
+cat__city_Christopherland,0.0
+cat__city_Christophertown,0.0
+cat__city_Clarkchester,0.0
+cat__city_Clarkmouth,0.0
+cat__city_Clarkstad,0.0
+cat__city_Claytonside,0.0
+cat__city_Claytonville,0.0
+cat__city_Cochranshire,0.0
+cat__city_Codyfort,0.0
+cat__city_Colemanport,0.0
+cat__city_Colemanside,0.0
+cat__city_Collinsmouth,0.0
+cat__city_Comptontown,0.0
+cat__city_Connieville,0.0
+cat__city_Contrerasside,0.0
+cat__city_Copelandchester,0.0
+cat__city_Cortezmouth,0.0
+cat__city_Coryport,0.0
+cat__city_Corystad,0.0
+cat__city_Craigside,0.0
+cat__city_Cranehaven,0.0
+cat__city_Crosbyview,0.0
+cat__city_Crystalmouth,0.0
+cat__city_Cynthiamouth,0.0
+cat__city_Dakotahaven,0.0
+cat__city_Daltonhaven,0.0
+cat__city_Danaburgh,0.0
+cat__city_Danielleshire,0.0
+cat__city_Danielport,0.0
+cat__city_Davidfort,0.0
+cat__city_Davidmouth,0.0
+cat__city_Davidshire,0.0
+cat__city_Davisberg,0.0
+cat__city_Davismouth,0.0
+cat__city_Davisstad,0.0
+cat__city_Dawnberg,0.0
+cat__city_Dawnton,0.0
+cat__city_Daymouth,0.0
+cat__city_Debbieberg,0.0
+cat__city_Debbiemouth,0.0
+cat__city_Deborahfort,0.0
+cat__city_Debrastad,0.0
+cat__city_Delacruzbury,0.0
+cat__city_Deniseport,0.0
+cat__city_Dennischester,0.0
+cat__city_Derekside,0.0
+cat__city_Dianahaven,0.0
+cat__city_Dixonfort,0.0
+cat__city_Donaldmouth,0.0
+cat__city_Donnaburgh,0.0
+cat__city_Donnaport,0.0
+cat__city_Donnashire,0.0
+cat__city_Dorothyhaven,0.0
+cat__city_Douglasland,0.0
+cat__city_Dunnville,0.0
+cat__city_Durantown,0.0
+cat__city_Dylanfort,0.0
+cat__city_East Aaronmouth,0.0
+cat__city_East Alice,0.0
+cat__city_East Amandafort,0.0
+cat__city_East Amyside,0.0
+cat__city_East Annville,0.0
+cat__city_East Anthonyshire,0.0
+cat__city_East Barbaramouth,0.0
+cat__city_East Benjamin,0.0
+cat__city_East Brandy,0.0
+cat__city_East Brendaberg,0.0
+cat__city_East Cameron,0.0
+cat__city_East Carol,0.0
+cat__city_East Catherineside,0.0
+cat__city_East Charles,0.0
+cat__city_East Christopher,0.0
+cat__city_East Colin,0.0
+cat__city_East Courtneychester,0.0
+cat__city_East Daniellemouth,0.0
+cat__city_East Davidton,0.0
+cat__city_East Debbieland,0.0
+cat__city_East Donaldbury,0.0
+cat__city_East Donna,0.0
+cat__city_East Edward,0.0
+cat__city_East Edwardfurt,0.0
+cat__city_East Edwardshire,0.0
+cat__city_East Eric,0.0
+cat__city_East Gracefurt,0.0
+cat__city_East Heather,0.0
+cat__city_East Jamestown,0.0
+cat__city_East Jamesville,0.0
+cat__city_East Jeffreyhaven,0.0
+cat__city_East Jeffreymouth,0.0
+cat__city_East Jennifer,0.0
+cat__city_East Jesseshire,0.0
+cat__city_East Jessicafort,0.0
+cat__city_East Jessicastad,0.0
+cat__city_East Jill,0.0
+cat__city_East Johnfort,0.0
+cat__city_East Johnnyport,0.0
+cat__city_East Joshua,0.0
+cat__city_East Joshuachester,0.0
+cat__city_East Julie,0.0
+cat__city_East Kevinside,0.0
+cat__city_East Leslie,0.0
+cat__city_East Louismouth,0.0
+cat__city_East Marisa,0.0
+cat__city_East Mark,0.0
+cat__city_East Mary,0.0
+cat__city_East Maryfurt,0.0
+cat__city_East Matthew,0.0
+cat__city_East Meghan,0.0
+cat__city_East Micheleview,0.0
+cat__city_East Michelle,0.0
+cat__city_East Mikeshire,0.0
+cat__city_East Nicoleburgh,0.0
+cat__city_East Pamela,0.0
+cat__city_East Patty,0.0
+cat__city_East Paultown,0.0
+cat__city_East Raymondberg,0.0
+cat__city_East Rebeccafort,0.0
+cat__city_East Rebeccaview,0.0
+cat__city_East Robert,0.0
+cat__city_East Ryanstad,0.0
+cat__city_East Scott,0.0
+cat__city_East Stacyberg,0.0
+cat__city_East Stephaniemouth,0.0
+cat__city_East Susan,0.0
+cat__city_East Tina,0.0
+cat__city_East Tony,0.0
+cat__city_East Trevorshire,0.0
+cat__city_East Tylerland,0.0
+cat__city_East Williammouth,0.0
+cat__city_East Williamshire,0.0
+cat__city_East Zachary,0.0
+cat__city_Edgarberg,0.0
+cat__city_Edwinborough,0.0
+cat__city_Elizabethmouth,0.0
+cat__city_Elizabethstad,0.0
+cat__city_Elliottton,0.0
+cat__city_Ericland,0.0
+cat__city_Ericport,0.0
+cat__city_Ericview,0.0
+cat__city_Erikastad,0.0
+cat__city_Erinhaven,0.0
+cat__city_Erintown,0.0
+cat__city_Evanschester,0.0
+cat__city_Farmerside,0.0
+cat__city_Faulknerbury,0.0
+cat__city_Flemingtown,0.0
+cat__city_Florestown,0.0
+cat__city_Fordton,0.0
+cat__city_Fordview,0.0
+cat__city_Fowlerport,0.0
+cat__city_Foxchester,0.0
+cat__city_Foxshire,0.0
+cat__city_Franciscofurt,0.0
+cat__city_Franciscoville,0.0
+cat__city_Franklinberg,0.0
+cat__city_Friedmanview,0.0
+cat__city_Gallagherberg,0.0
+cat__city_Garciamouth,0.0
+cat__city_Garciaton,0.0
+cat__city_Garrettberg,0.0
+cat__city_Garyberg,0.0
+cat__city_Garzafurt,0.0
+cat__city_Gayport,0.0
+cat__city_Gilesborough,0.0
+cat__city_Ginaside,0.0
+cat__city_Gonzalezberg,0.0
+cat__city_Gonzalezborough,0.0
+cat__city_Gonzalezmouth,0.0
+cat__city_Gonzalezport,0.0
+cat__city_Gonzalezside,0.0
+cat__city_Grahammouth,0.0
+cat__city_Grantmouth,0.0
+cat__city_Gravesburgh,0.0
+cat__city_Grayburgh,0.0
+cat__city_Grayton,0.0
+cat__city_Greerstad,0.0
+cat__city_Griffinborough,0.0
+cat__city_Gutierrezmouth,0.0
+cat__city_Haleyland,0.0
+cat__city_Haleymouth,0.0
+cat__city_Hallbury,0.0
+cat__city_Hallmouth,0.0
+cat__city_Hallside,0.0
+cat__city_Hammondfurt,0.0
+cat__city_Haroldport,0.0
+cat__city_Harrellmouth,0.0
+cat__city_Harringtonview,0.0
+cat__city_Harrisshire,0.0
+cat__city_Harrisview,0.0
+cat__city_Harrisville,0.0
+cat__city_Hayesview,0.0
+cat__city_Heatherchester,0.0
+cat__city_Heidiview,0.0
+cat__city_Helenland,0.0
+cat__city_Hernandezburgh,0.0
+cat__city_Hernandezbury,0.0
+cat__city_Hernandezchester,0.0
+cat__city_Hernandezland,0.0
+cat__city_Herrington,0.0
+cat__city_Hickmanport,0.0
+cat__city_Hillside,0.0
+cat__city_Holdertown,0.0
+cat__city_Holmesside,0.0
+cat__city_Hoodview,0.0
+cat__city_Hopkinsmouth,0.0
+cat__city_Hopkinstown,0.0
+cat__city_Hoshire,0.0
+cat__city_Houstonborough,0.0
+cat__city_Howardborough,0.0
+cat__city_Howardton,0.0
+cat__city_Huberville,0.0
+cat__city_Hughesberg,0.0
+cat__city_Hunterfort,0.0
+cat__city_Huntfort,0.0
+cat__city_Hurstfurt,0.0
+cat__city_Jacksonfurt,0.0
+cat__city_Jacobbury,0.0
+cat__city_Jacobhaven,0.0
+cat__city_Jacobsshire,0.0
+cat__city_Jacobview,0.0
+cat__city_Jamesberg,0.0
+cat__city_Jamesborough,0.0
+cat__city_Jamesburgh,0.0
+cat__city_Jamesfurt,0.0
+cat__city_Jameshaven,0.0
+cat__city_Jamesmouth,0.0
+cat__city_Jamesport,0.0
+cat__city_Jamesstad,0.0
+cat__city_Jamestown,0.0
+cat__city_Jamieland,0.0
+cat__city_Jaredchester,0.0
+cat__city_Jasonburgh,0.0
+cat__city_Jasonhaven,0.0
+cat__city_Jefferyshire,0.0
+cat__city_Jenniferfort,0.0
+cat__city_Jenniferfurt,0.0
+cat__city_Jenniferland,0.0
+cat__city_Jenniferport,0.0
+cat__city_Jenniferview,0.0
+cat__city_Jensenport,0.0
+cat__city_Jeremyfurt,0.0
+cat__city_Jeremyview,0.0
+cat__city_Jessicaland,0.0
+cat__city_Jessicastad,0.0
+cat__city_Jimenezburgh,0.0
+cat__city_Joefort,0.0
+cat__city_Joelside,0.0
+cat__city_Johnfurt,0.0
+cat__city_Johnnymouth,0.0
+cat__city_Johnnyville,0.0
+cat__city_Johnside,0.0
+cat__city_Johnsonborough,0.0
+cat__city_Johnsonshire,0.0
+cat__city_Johnsonside,0.0
+cat__city_Johnsonview,0.0
+cat__city_Johnstad,0.0
+cat__city_Johnview,0.0
+cat__city_Johnville,0.0
+cat__city_Jonathanfurt,0.0
+cat__city_Jonathantown,0.0
+cat__city_Jonesview,0.0
+cat__city_Jonesville,0.0
+cat__city_Joseland,0.0
+cat__city_Josephshire,0.0
+cat__city_Josephstad,0.0
+cat__city_Joseside,0.0
+cat__city_Joyborough,0.0
+cat__city_Juanstad,0.0
+cat__city_Julietown,0.0
+cat__city_Justinside,0.0
+cat__city_Justinton,0.0
+cat__city_Katherinehaven,0.0
+cat__city_Katherineside,0.0
+cat__city_Kathrynburgh,0.0
+cat__city_Katieview,0.0
+cat__city_Kaylabury,0.0
+cat__city_Kaylamouth,0.0
+cat__city_Keithfort,0.0
+cat__city_Keithtown,0.0
+cat__city_Keithville,0.0
+cat__city_Kellyhaven,0.0
+cat__city_Kellytown,0.0
+cat__city_Kennedyfort,0.0
+cat__city_Kerrybury,0.0
+cat__city_Kevinbury,0.0
+cat__city_Kevinport,0.0
+cat__city_Kevinshire,0.0
+cat__city_Kevinville,0.0
+cat__city_Kimberlyberg,0.0
+cat__city_Kimberlystad,0.0
+cat__city_Kimberlytown,0.0
+cat__city_Kimberlyville,0.0
+cat__city_Kingport,0.0
+cat__city_Kingshire,0.0
+cat__city_Kochfort,0.0
+cat__city_Kristenport,0.0
+cat__city_Kristinamouth,0.0
+cat__city_Kristyport,0.0
+cat__city_Kurtshire,0.0
+cat__city_Kylestad,0.0
+cat__city_Kylieside,0.0
+cat__city_Lake Alanland,0.0
+cat__city_Lake Albertburgh,0.0
+cat__city_Lake Alexandermouth,0.0
+cat__city_Lake Alyssafurt,0.0
+cat__city_Lake Amyland,0.0
+cat__city_Lake Ariana,0.0
+cat__city_Lake Austin,0.0
+cat__city_Lake Austinport,0.0
+cat__city_Lake Brandonstad,0.0
+cat__city_Lake Brianmouth,0.0
+cat__city_Lake Brittanyfort,0.0
+cat__city_Lake Charles,0.0
+cat__city_Lake Charlesfurt,0.0
+cat__city_Lake Charlotte,0.0
+cat__city_Lake Christopher,0.0
+cat__city_Lake Christopherbury,0.0
+cat__city_Lake Colton,0.0
+cat__city_Lake Coreyborough,0.0
+cat__city_Lake Courtneybury,0.0
+cat__city_Lake Courtneymouth,0.0
+cat__city_Lake David,0.0
+cat__city_Lake Dianaland,0.0
+cat__city_Lake Douglas,0.0
+cat__city_Lake Elizabethside,0.0
+cat__city_Lake Ellenhaven,0.0
+cat__city_Lake Emily,0.0
+cat__city_Lake Erika,0.0
+cat__city_Lake Haileyton,0.0
+cat__city_Lake Holly,0.0
+cat__city_Lake Jasonfort,0.0
+cat__city_Lake Jenniferside,0.0
+cat__city_Lake Jeremy,0.0
+cat__city_Lake Jesse,0.0
+cat__city_Lake Jessica,0.0
+cat__city_Lake Joseph,0.0
+cat__city_Lake Julie,0.0
+cat__city_Lake Juliefurt,0.0
+cat__city_Lake Kathleenmouth,0.0
+cat__city_Lake Kentburgh,0.0
+cat__city_Lake Lauraland,0.0
+cat__city_Lake Linda,0.0
+cat__city_Lake Lisastad,0.0
+cat__city_Lake Mariah,0.0
+cat__city_Lake Mark,0.0
+cat__city_Lake Mauriceside,0.0
+cat__city_Lake Michaelmouth,0.0
+cat__city_Lake Michelle,0.0
+cat__city_Lake Moniquefort,0.0
+cat__city_Lake Nathan,0.0
+cat__city_Lake Nicole,0.0
+cat__city_Lake Oliviaborough,0.0
+cat__city_Lake Patriciaberg,0.0
+cat__city_Lake Raymond,0.0
+cat__city_Lake Richard,0.0
+cat__city_Lake Rodney,0.0
+cat__city_Lake Samuel,0.0
+cat__city_Lake Sarah,0.0
+cat__city_Lake Sean,0.0
+cat__city_Lake Shannon,0.0
+cat__city_Lake Stanley,0.0
+cat__city_Lake Stephanie,0.0
+cat__city_Lake Stephenburgh,0.0
+cat__city_Lake Taratown,0.0
+cat__city_Lake Theresa,0.0
+cat__city_Lake Tommystad,0.0
+cat__city_Lake Tyler,0.0
+cat__city_Lake Tylerport,0.0
+cat__city_Lake Victoriaborough,0.0
+cat__city_Lake Victormouth,0.0
+cat__city_Lake William,0.0
+cat__city_Larryside,0.0
+cat__city_Larryville,0.0
+cat__city_Lauramouth,0.0
+cat__city_Laurenborough,0.0
+cat__city_Laurenstad,0.0
+cat__city_Lauriechester,0.0
+cat__city_Leeberg,0.0
+cat__city_Leeland,0.0
+cat__city_Leroystad,0.0
+cat__city_Levytown,0.0
+cat__city_Lewisbury,0.0
+cat__city_Lewisport,0.0
+cat__city_Lewisville,0.0
+cat__city_Lindamouth,0.0
+cat__city_Lisaview,0.0
+cat__city_Lisaville,0.0
+cat__city_Lopezberg,0.0
+cat__city_Lopeztown,0.0
+cat__city_Louischester,0.0
+cat__city_Lozanofort,0.0
+cat__city_Lynnville,0.0
+cat__city_Lyonsstad,0.0
+cat__city_Mackenzieville,0.0
+cat__city_Maddoxshire,0.0
+cat__city_Madelinetown,0.0
+cat__city_Mannside,0.0
+cat__city_Marciaville,0.0
+cat__city_Marcusborough,0.0
+cat__city_Marcusmouth,0.0
+cat__city_Mariachester,0.0
+cat__city_Mariafurt,0.0
+cat__city_Mariaview,0.0
+cat__city_Markmouth,0.0
+cat__city_Markside,0.0
+cat__city_Marktown,0.0
+cat__city_Marshallmouth,0.0
+cat__city_Marshallshire,0.0
+cat__city_Marshallside,0.0
+cat__city_Martinberg,0.0
+cat__city_Martinezburgh,0.0
+cat__city_Martinezchester,0.0
+cat__city_Martinezport,0.0
+cat__city_Martinezview,0.0
+cat__city_Maryberg,0.0
+cat__city_Maryfort,0.0
+cat__city_Mathewport,0.0
+cat__city_Matthewmouth,0.0
+cat__city_Matthewview,0.0
+cat__city_Maynardfort,0.0
+cat__city_Mccannchester,0.0
+cat__city_Mcclurefurt,0.0
+cat__city_Mccoyland,0.0
+cat__city_Mcdanielville,0.0
+cat__city_Mcgrathbury,0.0
+cat__city_Mckinneychester,0.0
+cat__city_Mcleanville,0.0
+cat__city_Meganville,0.0
+cat__city_Mejiabury,0.0
+cat__city_Michaelburgh,0.0
+cat__city_Michaelchester,0.0
+cat__city_Michaelland,0.0
+cat__city_Michaelport,0.0
+cat__city_Michaelshire,0.0
+cat__city_Michaelstad,0.0
+cat__city_Michaelton,0.0
+cat__city_Michaeltown,0.0
+cat__city_Michealmouth,0.0
+cat__city_Micheleberg,0.0
+cat__city_Micheleburgh,0.0
+cat__city_Michellehaven,0.0
+cat__city_Michellemouth,0.0
+cat__city_Michelleshire,0.0
+cat__city_Millerchester,0.0
+cat__city_Millerhaven,0.0
+cat__city_Millerland,0.0
+cat__city_Mitchellchester,0.0
+cat__city_Mollybury,0.0
+cat__city_Monicaburgh,0.0
+cat__city_Montgomerytown,0.0
+cat__city_Morganfurt,0.0
+cat__city_Morganton,0.0
+cat__city_Mosleyland,0.0
+cat__city_Murphymouth,0.0
+cat__city_Murphystad,0.0
+cat__city_Murrayfurt,0.0
+cat__city_Nathanshire,0.0
+cat__city_Nelsonside,0.0
+cat__city_New Abigailville,0.0
+cat__city_New Adamland,0.0
+cat__city_New Adriana,0.0
+cat__city_New Ambertown,0.0
+cat__city_New Amy,0.0
+cat__city_New Anna,0.0
+cat__city_New Anthony,0.0
+cat__city_New Arthurland,0.0
+cat__city_New Ashleychester,0.0
+cat__city_New Brandonborough,0.0
+cat__city_New Brendaberg,0.0
+cat__city_New Brian,0.0
+cat__city_New Brianfurt,0.0
+cat__city_New Brookefurt,0.0
+cat__city_New Brycechester,0.0
+cat__city_New Caitlinmouth,0.0
+cat__city_New Cesarfurt,0.0
+cat__city_New Colton,0.0
+cat__city_New Daletown,0.0
+cat__city_New Danielchester,0.0
+cat__city_New Dawnton,0.0
+cat__city_New Diamondburgh,0.0
+cat__city_New Diana,0.0
+cat__city_New Elaine,0.0
+cat__city_New Elizabeth,0.0
+cat__city_New Elizabethborough,0.0
+cat__city_New Frank,0.0
+cat__city_New Heather,0.0
+cat__city_New Heatherton,0.0
+cat__city_New Heatherville,0.0
+cat__city_New Jack,0.0
+cat__city_New James,0.0
+cat__city_New Jared,0.0
+cat__city_New Jennifer,0.0
+cat__city_New Jesse,0.0
+cat__city_New John,0.0
+cat__city_New Johnton,0.0
+cat__city_New Josephberg,0.0
+cat__city_New Josephland,0.0
+cat__city_New Karen,0.0
+cat__city_New Karenside,0.0
+cat__city_New Katie,0.0
+cat__city_New Kayla,0.0
+cat__city_New Kellyberg,0.0
+cat__city_New Kelseyview,0.0
+cat__city_New Kimberlyport,0.0
+cat__city_New Kristineborough,0.0
+cat__city_New Kristy,0.0
+cat__city_New Lauramouth,0.0
+cat__city_New Lisamouth,0.0
+cat__city_New Lorraineview,0.0
+cat__city_New Madelinetown,0.0
+cat__city_New Mark,0.0
+cat__city_New Mary,0.0
+cat__city_New Mathew,0.0
+cat__city_New Meghan,0.0
+cat__city_New Melissa,0.0
+cat__city_New Michael,0.0
+cat__city_New Michaelstad,0.0
+cat__city_New Nathanielshire,0.0
+cat__city_New Pamelaville,0.0
+cat__city_New Patricia,0.0
+cat__city_New Patriciachester,0.0
+cat__city_New Prestonfort,0.0
+cat__city_New Reginald,0.0
+cat__city_New Richard,0.0
+cat__city_New Rickybury,0.0
+cat__city_New Sandraborough,0.0
+cat__city_New Sarah,0.0
+cat__city_New Shelly,0.0
+cat__city_New Sierra,0.0
+cat__city_New Stacy,0.0
+cat__city_New Theresaland,0.0
+cat__city_New Thomasshire,0.0
+cat__city_New Tiffanyburgh,0.0
+cat__city_New Timothyberg,0.0
+cat__city_New Timothyshire,0.0
+cat__city_New Trevorview,0.0
+cat__city_New Troy,0.0
+cat__city_New Virginialand,0.0
+cat__city_New Virginiaville,0.0
+cat__city_New Wendy,0.0
+cat__city_New Whitney,0.0
+cat__city_Nicoleberg,0.0
+cat__city_Nicolechester,0.0
+cat__city_Normanstad,0.0
+cat__city_North Adamtown,0.0
+cat__city_North Allen,0.0
+cat__city_North Andre,0.0
+cat__city_North Andrew,0.0
+cat__city_North Ann,0.0
+cat__city_North Anna,0.0
+cat__city_North Beth,0.0
+cat__city_North Brenda,0.0
+cat__city_North Brendatown,0.0
+cat__city_North Brian,0.0
+cat__city_North Brianna,0.0
+cat__city_North Brianville,0.0
+cat__city_North Brittany,0.0
+cat__city_North Carrietown,0.0
+cat__city_North Charlesshire,0.0
+cat__city_North Christinaborough,0.0
+cat__city_North Christinaburgh,0.0
+cat__city_North Christopher,0.0
+cat__city_North Christopherfort,0.0
+cat__city_North Darlenemouth,0.0
+cat__city_North David,0.0
+cat__city_North Davidville,0.0
+cat__city_North Deanna,0.0
+cat__city_North Denise,0.0
+cat__city_North Douglasfurt,0.0
+cat__city_North Dylan,0.0
+cat__city_North Elizabeth,0.0
+cat__city_North Elizabethmouth,0.0
+cat__city_North Ericton,0.0
+cat__city_North Felicia,0.0
+cat__city_North Fredville,0.0
+cat__city_North Garyside,0.0
+cat__city_North Gregory,0.0
+cat__city_North Jake,0.0
+cat__city_North James,0.0
+cat__city_North Jameshaven,0.0
+cat__city_North Jefferyborough,0.0
+cat__city_North Jennifer,0.0
+cat__city_North Jeremy,0.0
+cat__city_North John,0.0
+cat__city_North Johnhaven,0.0
+cat__city_North Jonfurt,0.0
+cat__city_Williamsfurt,0.0
+cat__city_North Joshuafurt,0.0
+cat__city_North Joyhaven,0.0
+cat__city_North Kelseyborough,0.0
+cat__city_North Kevin,0.0
+cat__city_North Kimberly,0.0
+cat__city_North Kimberlyville,0.0
+cat__city_North Larryton,0.0
+cat__city_North Loritown,0.0
+cat__city_North Malloryville,0.0
+cat__city_North Matthew,0.0
+cat__city_North Matthewfurt,0.0
+cat__city_North Melanieview,0.0
+cat__city_North Melindaville,0.0
+cat__city_North Melissatown,0.0
+cat__city_North Michael,0.0
+cat__city_North Misty,0.0
+cat__city_North Natalieview,0.0
+cat__city_North Patrickland,0.0
+cat__city_North Patrickmouth,0.0
+cat__city_North Paula,0.0
+cat__city_North Paulfurt,0.0
+cat__city_North Peggy,0.0
+cat__city_North Rachel,0.0
+cat__city_North Rhondaborough,0.0
+cat__city_North Robert,0.0
+cat__city_North Sandraborough,0.0
+cat__city_North Sophia,0.0
+cat__city_North Stacy,0.0
+cat__city_North Stephen,0.0
+cat__city_North Stephenfurt,0.0
+cat__city_North Stephenville,0.0
+cat__city_North Stevenborough,0.0
+cat__city_North Tanyamouth,0.0
+cat__city_North Theresastad,0.0
+cat__city_North Timothyberg,0.0
+cat__city_North Tonyaberg,0.0
+cat__city_North Tracytown,0.0
+cat__city_North William,0.0
+cat__city_Obrienfurt,0.0
+cat__city_Ochoaport,0.0
+cat__city_Oliviaburgh,0.0
+cat__city_Onealmouth,0.0
+cat__city_Ortizberg,0.0
+cat__city_Oscarport,0.0
+cat__city_Parkerbury,0.0
+cat__city_Parsonsland,0.0
+cat__city_Patriciashire,0.0
+cat__city_Patrickberg,0.0
+cat__city_Pattersonshire,0.0
+cat__city_Pattersontown,0.0
+cat__city_Pattersonville,0.0
+cat__city_Paulahaven,0.0
+cat__city_Perezland,0.0
+cat__city_Petersburgh,0.0
+cat__city_Petersmouth,0.0
+cat__city_Petersonchester,0.0
+cat__city_Pettybury,0.0
+cat__city_Phambury,0.0
+cat__city_Phelpsberg,0.0
+cat__city_Phillipshaven,0.0
+cat__city_Pinedafurt,0.0
+cat__city_Port Alexandra,0.0
+cat__city_Port Amber,0.0
+cat__city_Port Andrewport,0.0
+cat__city_Port Anthony,0.0
+cat__city_Port Anthonychester,0.0
+cat__city_Port Ashleyshire,0.0
+cat__city_Port Barry,0.0
+cat__city_Port Brianshire,0.0
+cat__city_Port Brittanyfurt,0.0
+cat__city_Port Brooke,0.0
+cat__city_Port Chad,0.0
+cat__city_Port Cheyenneberg,0.0
+cat__city_Port Chloe,0.0
+cat__city_Williamsstad,0.0
+cat__city_Port Christopherfurt,0.0
+cat__city_Port Danielfurt,0.0
+cat__city_Port Darylburgh,0.0
+cat__city_Port Dennis,0.0
+cat__city_Port Desiree,0.0
+cat__city_Port Dwayneberg,0.0
+cat__city_Port Emily,0.0
+cat__city_Port Emilyview,0.0
+cat__city_Port Erica,0.0
+cat__city_Port Ethanview,0.0
+cat__city_Port Gabrielleberg,0.0
+cat__city_Port Heather,0.0
+cat__city_Port Heatherfort,0.0
+cat__city_Port Heathermouth,0.0
+cat__city_Port Jamesbury,0.0
+cat__city_Port Janice,0.0
+cat__city_Port Jason,0.0
+cat__city_Port Jennifershire,0.0
+cat__city_Port Jenniferside,0.0
+cat__city_Port Jenniferview,0.0
+cat__city_Williamston,0.0
+cat__city_Port Jimmyfurt,0.0
+cat__city_Port Joditon,0.0
+cat__city_Port John,0.0
+cat__city_Port Jonathan,0.0
+cat__city_Port Josephbury,0.0
+cat__city_Port Juliantown,0.0
+cat__city_Port Julie,0.0
+cat__city_Port Justin,0.0
+cat__city_Port Kelly,0.0
+cat__city_Port Kevinstad,0.0
+cat__city_Port Kimberlyfort,0.0
+cat__city_Port Kristenfurt,0.0
+cat__city_Port Lauraville,0.0
+cat__city_Port Leahstad,0.0
+cat__city_Port Leslieview,0.0
+cat__city_Port Loriland,0.0
+cat__city_Port Loriport,0.0
+cat__city_Port Mark,0.0
+cat__city_Port Maryland,0.0
+cat__city_Port Maryton,0.0
+cat__city_Port Melanieport,0.0
+cat__city_Port Michael,0.0
+cat__city_Port Michaeltown,0.0
+cat__city_Port Michelleland,0.0
+cat__city_Port Miguelchester,0.0
+cat__city_Port Mikeside,0.0
+cat__city_Port Nicholas,0.0
+cat__city_Port Nicholasmouth,0.0
+cat__city_Port Peterhaven,0.0
+cat__city_Port Rachaelbury,0.0
+cat__city_Port Rachel,0.0
+cat__city_Port Raymond,0.0
+cat__city_Port Robertfort,0.0
+cat__city_Port Robertside,0.0
+cat__city_Port Ronaldside,0.0
+cat__city_Port Samantha,0.0
+cat__city_Port Sarahshire,0.0
+cat__city_Port Shannon,0.0
+cat__city_Port Steven,0.0
+cat__city_Port Stevenport,0.0
+cat__city_Port Tammyville,0.0
+cat__city_Port Teresaborough,0.0
+cat__city_Port Thomas,0.0
+cat__city_Port Toddchester,0.0
+cat__city_Port Toni,0.0
+cat__city_Port Tracyborough,0.0
+cat__city_Port Williamhaven,0.0
+cat__city_Port Williamview,0.0
+cat__city_Powellberg,0.0
+cat__city_Powellfurt,0.0
+cat__city_Proctorberg,0.0
+cat__city_Proctorview,0.0
+cat__city_Rachaelburgh,0.0
+cat__city_Rachelshire,0.0
+cat__city_Ramirezborough,0.0
+cat__city_Ramseyport,0.0
+cat__city_Rebeccahaven,0.0
+cat__city_Reedmouth,0.0
+cat__city_Reedport,0.0
+cat__city_Reyesbury,0.0
+cat__city_Reyesmouth,0.0
+cat__city_Reyesside,0.0
+cat__city_Rhodesmouth,0.0
+cat__city_Rickeyburgh,0.0
+cat__city_Robertaborough,0.0
+cat__city_Robertfort,0.0
+cat__city_Robertsonland,0.0
+cat__city_Robinsonberg,0.0
+cat__city_Robinsonchester,0.0
+cat__city_Robinsonfurt,0.0
+cat__city_Robinstad,0.0
+cat__city_Robintown,0.0
+cat__city_Roblesberg,0.0
+cat__city_Rodriguezside,0.0
+cat__city_Rodriguezstad,0.0
+cat__city_Ronaldview,0.0
+cat__city_Rosarioville,0.0
+cat__city_Rosebury,0.0
+cat__city_Rosemouth,0.0
+cat__city_Ryanport,0.0
+cat__city_Ryantown,0.0
+cat__city_Samuelfurt,0.0
+cat__city_Samuelhaven,0.0
+cat__city_Sanchezfort,0.0
+cat__city_Sanchezmouth,0.0
+cat__city_Sanchezville,0.0
+cat__city_Sandraview,0.0
+cat__city_Sanfordfurt,0.0
+cat__city_Sarahland,0.0
+cat__city_Sarahport,0.0
+cat__city_Sarahview,0.0
+cat__city_Savagehaven,0.0
+cat__city_Scottbury,0.0
+cat__city_Scottmouth,0.0
+cat__city_Sellersland,0.0
+cat__city_Sethberg,0.0
+cat__city_Shannonshire,0.0
+cat__city_Shannontown,0.0
+cat__city_Sharpmouth,0.0
+cat__city_Shaunstad,0.0
+cat__city_Shaunville,0.0
+cat__city_Shawfort,0.0
+cat__city_Shawfurt,0.0
+cat__city_Shawnhaven,0.0
+cat__city_Shawnside,0.0
+cat__city_Shelbyfurt,0.0
+cat__city_Sheppardfort,0.0
+cat__city_Shermanborough,0.0
+cat__city_Shieldston,0.0
+cat__city_Shortton,0.0
+cat__city_Silvaport,0.0
+cat__city_Smithborough,0.0
+cat__city_Smithport,0.0
+cat__city_Smithside,0.0
+cat__city_Solisside,0.0
+cat__city_South Alexis,0.0
+cat__city_South Alison,0.0
+cat__city_South Allisonfort,0.0
+cat__city_South Amandatown,0.0
+cat__city_South Amy,0.0
+cat__city_South Andre,0.0
+cat__city_South Andrea,0.0
+cat__city_South Andres,0.0
+cat__city_South Angela,0.0
+cat__city_South Anna,0.0
+cat__city_South Brady,0.0
+cat__city_South Brandon,0.0
+cat__city_South Brian,0.0
+cat__city_South Brittany,0.0
+cat__city_South Brittanytown,0.0
+cat__city_South Catherineport,0.0
+cat__city_South Christian,0.0
+cat__city_South Christinabury,0.0
+cat__city_South Christineshire,0.0
+cat__city_South Danielberg,0.0
+cat__city_South Dennisfort,0.0
+cat__city_South Dianamouth,0.0
+cat__city_South Donna,0.0
+cat__city_South Drewland,0.0
+cat__city_South Eugene,0.0
+cat__city_South Haleystad,0.0
+cat__city_South Heather,0.0
+cat__city_South Henry,0.0
+cat__city_South James,0.0
+cat__city_South Jamesberg,0.0
+cat__city_South Jason,0.0
+cat__city_South Jefferyville,0.0
+cat__city_South Jennifermouth,0.0
+cat__city_South Jessica,0.0
+cat__city_South John,0.0
+cat__city_South Jorge,0.0
+cat__city_South Joseland,0.0
+cat__city_South Joseph,0.0
+cat__city_South Kara,0.0
+cat__city_South Kayla,0.0
+cat__city_South Keith,0.0
+cat__city_South Kenneth,0.0
+cat__city_South Kimberly,0.0
+cat__city_South Krista,0.0
+cat__city_South Lauren,0.0
+cat__city_South Linda,0.0
+cat__city_South Lisastad,0.0
+cat__city_South Lori,0.0
+cat__city_South Marcus,0.0
+cat__city_South Maria,0.0
+cat__city_South Matthew,0.0
+cat__city_South Michael,0.0
+cat__city_South Miguelview,0.0
+cat__city_South Norman,0.0
+cat__city_South Patricia,0.0
+cat__city_South Rachelfort,0.0
+cat__city_South Robert,0.0
+cat__city_South Ronaldview,0.0
+cat__city_South Ryanmouth,0.0
+cat__city_South Samuelfurt,0.0
+cat__city_South Sarah,0.0
+cat__city_South Scottside,0.0
+cat__city_South Sean,0.0
+cat__city_South Seanshire,0.0
+cat__city_South Stevenland,0.0
+cat__city_South Susan,0.0
+cat__city_South Timothyville,0.0
+cat__city_South Toddton,0.0
+cat__city_South Travisland,0.0
+cat__city_South Tylerburgh,0.0
+cat__city_South Tylerchester,0.0
+cat__city_South Vickie,0.0
+cat__city_South Zachary,0.0
+cat__city_Sparksborough,0.0
+cat__city_Spenceberg,0.0
+cat__city_Staceyborough,0.0
+cat__city_Stacystad,0.0
+cat__city_Stanleybury,0.0
+cat__city_Stephanieport,0.0
+cat__city_Stephanieshire,0.0
+cat__city_Stephenshire,0.0
+cat__city_Stephensland,0.0
+cat__city_Stephenstown,0.0
+cat__city_Stevenberg,0.0
+cat__city_Stevenmouth,0.0
+cat__city_Stevenside,0.0
+cat__city_Stewarthaven,0.0
+cat__city_Stokesmouth,0.0
+cat__city_Stoneburgh,0.0
+cat__city_Susanburgh,0.0
+cat__city_Susantown,0.0
+cat__city_Tammyburgh,0.0
+cat__city_Tannerside,0.0
+cat__city_Tarashire,0.0
+cat__city_Taylorchester,0.0
+cat__city_Teresaburgh,0.0
+cat__city_Thomashaven,0.0
+cat__city_Timothyfort,0.0
+cat__city_Timothyfurt,0.0
+cat__city_Toddborough,0.0
+cat__city_Toddhaven,0.0
+cat__city_Tommyfort,0.0
+cat__city_Townsendton,0.0
+cat__city_Tracyshire,0.0
+cat__city_Travischester,0.0
+cat__city_Travishaven,0.0
+cat__city_Turnerstad,0.0
+cat__city_Tylertown,0.0
+cat__city_Valdezberg,0.0
+cat__city_Valdezfurt,0.0
+cat__city_Valerieshire,0.0
+cat__city_Vanessaview,0.0
+cat__city_Vasquezshire,0.0
+cat__city_Vaughnmouth,0.0
+cat__city_Vegaburgh,0.0
+cat__city_Wagnerberg,0.0
+cat__city_Walkerberg,0.0
+cat__city_Walkerbury,0.0
+cat__city_Walkertown,0.0
+cat__city_Walkerville,0.0
+cat__city_Waltersfort,0.0
+cat__city_Wangshire,0.0
+cat__city_Warnerland,0.0
+cat__city_Watsonside,0.0
+cat__city_Wayneside,0.0
+cat__city_Wellsbury,0.0
+cat__city_Wellsview,0.0
+cat__city_West Aaron,0.0
+cat__city_West Adamland,0.0
+cat__city_West Amandastad,0.0
+cat__city_West Amberchester,0.0
+cat__city_West Bryanbury,0.0
+cat__city_West Cassidy,0.0
+cat__city_West Charlesville,0.0
+cat__city_West Cherylchester,0.0
+cat__city_West Christopher,0.0
+cat__city_West Christopherville,0.0
+cat__city_West Connorside,0.0
+cat__city_West Courtney,0.0
+cat__city_West Crystalland,0.0
+cat__city_West Daniel,0.0
+cat__city_West Danielfort,0.0
+cat__city_West Danielton,0.0
+cat__city_West Darryl,0.0
+cat__city_West David,0.0
+cat__city_West Debratown,0.0
+cat__city_West Douglas,0.0
+cat__city_West Elizabeth,0.0
+cat__city_West Elizabethburgh,0.0
+cat__city_West Gabriella,0.0
+cat__city_West Gloria,0.0
+cat__city_West Gregory,0.0
+cat__city_West Hannah,0.0
+cat__city_West Heather,0.0
+cat__city_West Hollybury,0.0
+cat__city_West Jamesview,0.0
+cat__city_West Jason,0.0
+cat__city_West Jasonbury,0.0
+cat__city_West Jeffery,0.0
+cat__city_West Jeffreyborough,0.0
+cat__city_West Jeffreymouth,0.0
+cat__city_Williamstown,0.0
+cat__city_West Jeremymouth,0.0
+cat__city_West Jessica,0.0
+cat__city_West Jessicamouth,0.0
+cat__city_West John,0.0
+cat__city_West Joseph,0.0
+cat__city_West Joshua,0.0
+cat__city_West Judy,0.0
+cat__city_West Justin,0.0
+cat__city_West Kennethfurt,0.0
+cat__city_West Lauraport,0.0
+cat__city_West Loriland,0.0
+cat__city_West Loriville,0.0
+cat__city_West Malik,0.0
+cat__city_West Maria,0.0
+cat__city_West Marie,0.0
+cat__city_West Marvinchester,0.0
+cat__city_West Melanie,0.0
+cat__city_West Melissa,0.0
+cat__city_West Melissamouth,0.0
+cat__city_West Michellefort,0.0
+cat__city_West Morgan,0.0
+cat__city_West Nicholas,0.0
+cat__city_West Rachael,0.0
+cat__city_West Robert,0.0
+cat__city_West Robertville,0.0
+cat__city_West Ronald,0.0
+cat__city_West Ronniefort,0.0
+cat__city_West Ryan,0.0
+cat__city_West Ryanberg,0.0
+cat__city_West Samuelchester,0.0
+cat__city_West Sandra,0.0
+cat__city_West Scottstad,0.0
+cat__city_West Seanshire,0.0
+cat__city_West Shannon,0.0
+cat__city_West Shannonville,0.0
+cat__city_West Sharonport,0.0
+cat__city_West Stephenview,0.0
+cat__city_West Steven,0.0
+cat__city_West Taramouth,0.0
+cat__city_West Teresa,0.0
+cat__city_West Thomas,0.0
+cat__city_West Tiffany,0.0
+cat__city_West Tiffanyside,0.0
+cat__city_Williamview,0.0
+cat__city_Williehaven,0.0
+cat__city_Willismouth,0.0
+cat__city_Willisstad,0.0
+cat__city_Aaronstad,0.0
+cat__city_Adamburgh,0.0
+cat__city_Adammouth,0.0
+cat__city_Adamsfort,0.0
+cat__city_Alejandrabury,0.0
+cat__city_Alexismouth,0.0
+cat__city_Alexisville,0.0
+cat__city_Aliside,0.0
+cat__city_Allenbury,0.0
+cat__city_Allenstad,0.0
+cat__city_Amandaside,0.0
+cat__city_Amberburgh,0.0
+cat__city_West Toddbury,0.0
+cat__city_West Toddside,0.0
+cat__city_West Tonya,0.0
+cat__city_West Travischester,0.0
+cat__city_West Victoriamouth,0.0
+cat__city_West William,0.0
+cat__city_West Zacharymouth,0.0
+cat__city_Wheelerborough,0.0
+cat__city_Wheelerburgh,0.0
+cat__city_Whitefurt,0.0
+cat__city_Whitemouth,0.0
+cat__city_Whiteside,0.0
+cat__city_Wilkersonmouth,0.0
+cat__city_Williamburgh,0.0
+cat__city_Williamfort,0.0
+cat__city_Williamport,0.0
